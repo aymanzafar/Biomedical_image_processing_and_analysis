@@ -1,4 +1,4 @@
-# Biomedical Image Processing & Anlysis using MATLAB
+# Biomedical Image Processing & Analysis using MATLAB
 
 This project explores multiple core techniques in digital biomedical image processing using MATLAB, including contrast enhancement, denoising, edge detection, image segmentation, and image registration. The work emphasizes real-world medical applications like CT, MRI, and cellular imaging.
 
