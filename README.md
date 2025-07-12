@@ -39,3 +39,57 @@ This project explores multiple core techniques in digital biomedical image proce
 ├── Report/                  # Final project report 
 ├── code.zip                 # Compressed MATLAB scripts
 └── README.md                # Project documentation (this file)
+
+
+## 🖥️ Tools Used
+
+- MATLAB
+- Image Processing Toolbox
+- ImageJ
+## 🖥️ Tools Used
+
+- MATLAB (R2022a or later)
+- Image Processing Toolbox
+- ImageJ 
+
+## 📷 Sample Visuals
+
+- Contrast adjustment and gamma correction
+- FFT plots (original vs noisy)
+- Filtered and segmented medical images
+- Edge maps and registration alignment graphs
+
+## 📘 Report
+
+You can view the full project report here:  
+📄 [`Report/image_processing_report.pdf`](./Report/image_processing_report.pdf)
+
+## 📬 Author Info
+
+**Ayman Zafar**  
+Undergraduate, EEE  
+United International University  
+Email: [your-email@example.com]  
+GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+
+
+## 📷 Sample Visuals
+
+- Contrast adjustment and gamma correction
+- FFT plots (original vs noisy)
+- Filtered and segmented medical images
+- Edge maps and registration alignment graphs
+
+## 📘 Report
+
+You can view the full project report here:  
+📄 [`Report/image_processing_report.pdf`](./Report/image_processing_report.pdf)
+
+## 📬 Author Info
+
+**Ayman Zafar**  
+Undergraduate, EEE  
+United International University  
+Email: [your-email@example.com]  
+GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+
