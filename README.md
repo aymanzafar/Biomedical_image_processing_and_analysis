@@ -47,11 +47,6 @@ This project explores multiple core techniques in digital biomedical image proce
 - MATLAB
 - Image Processing Toolbox
 - ImageJ
-## 🖥️ Tools Used
-
-- MATLAB 
-- Image Processing Toolbox
-- ImageJ 
 
 ## 📷 Sample Visuals
 
@@ -63,34 +58,14 @@ This project explores multiple core techniques in digital biomedical image proce
 ## 📘 Report
 
 You can view the full project report here:  
-📄 [`Report/image_processing_report.pdf`](./Report//Biomedical_image_processing_and_analysis.pdf)
+📄 [`Report/Biomedical_image_processing_and_analysis.pdf`](./Report//Biomedical_image_processing_and_analysis.pdf)
+
 
 ## 📬 Author Info
 
 **Ayman Zafar**  
-Undergraduate, EEE  
+B.Sc. in Electrical and Electronic Engineering  
 United International University  
-Email: [your-email@example.com]  
-GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-
-
-## 📷 Sample Visuals
-
-- Contrast adjustment and gamma correction
-- FFT plots (original vs noisy)
-- Filtered and segmented medical images
-- Edge maps and registration alignment graphs
-
-## 📘 Report
-
-You can view the full project report here:  
-📄 [`Report/image_processing_report.pdf`](./Report/image_processing_report.pdf)
-
-## 📬 Author Info
-
-**Ayman Zafar**  
-Undergraduate, EEE  
-United International University  
-Email: [nov.aymanz@gmail.com.com]  
-GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-
+Email: [nov.aymanz@gmail.com]  
+GitHub: [https://github.com/aymanzafar]
+Linkedin: [https://www.linkedin.com/in/ayman-zafar]
