@@ -58,7 +58,7 @@ This project explores multiple core techniques in digital biomedical image proce
 ## 📘 Report
 
 You can view the full project report here:  
-📄 [`Report/Biomedical_image_processing_and_analysis.pdf`](./Report//Biomedical_image_processing_and_analysis.pdf)
+📄 [`Report/Biomedical_image_processing_and_analysis.pdf`](./Report//Biomedical_image_processing_&_analysis.pdf)
 
 
 ## 📬 Author Info
