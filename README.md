@@ -35,7 +35,7 @@ This project explores multiple core techniques in digital biomedical image proce
 
 ## 📂 Folder Structure
 
-```text
+
 ├── External Files/ # Contains external images and data resources
 ├── Report/ # Contains the project report (PDF)
 ├── code.zip # Compressed folder with all MATLAB scripts
