@@ -48,7 +48,7 @@ This project explores multiple core techniques in digital biomedical image proce
 - ImageJ
 ## 🖥️ Tools Used
 
-- MATLAB (R2022a or later)
+- MATLAB 
 - Image Processing Toolbox
 - ImageJ 
 
@@ -62,7 +62,9 @@ This project explores multiple core techniques in digital biomedical image proce
 ## 📘 Report
 
 You can view the full project report here:  
-📄 [`Report/image_processing_report.pdf`](./Report/image_processing_report.pdf)
+📄 
+[Report]
+[`Report/image_processing_report.pdf`](./Report/image_processing_report.pdf)
 
 ## 📬 Author Info
 
