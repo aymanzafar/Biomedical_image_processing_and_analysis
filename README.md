@@ -35,10 +35,11 @@ This project explores multiple core techniques in digital biomedical image proce
 
 ## 📂 Folder Structure
 
-├── External Files/          # Additional resources or data used
-├── Report/                  # Final project report 
-├── code.zip                 # Compressed MATLAB scripts
-└── README.md                # Project documentation (this file)
+```text
+├── External Files/ # Contains external images and data resources
+├── Report/ # Contains the project report (PDF)
+├── code.zip # Compressed folder with all MATLAB scripts
+└── README.md # This documentation file
 
 
 ## 🖥️ Tools Used
@@ -62,8 +63,7 @@ This project explores multiple core techniques in digital biomedical image proce
 ## 📘 Report
 
 You can view the full project report here:  
-📄 [https://github.com/aymanzafar/Biomedical_image_processing_and_analysis/tree/6448b1aa7fa3e94c2e45b5c9ed7a17cb53a6cb76/Report]
-[`Report/image_processing_report.pdf`](./Report/image_processing_report.pdf)
+📄 [`Report/image_processing_report.pdf`](./Report//Biomedical_image_processing_and_analysis.pdf)
 
 ## 📬 Author Info
 
@@ -91,6 +91,6 @@ You can view the full project report here:
 **Ayman Zafar**  
 Undergraduate, EEE  
 United International University  
-Email: [your-email@example.com]  
+Email: [nov.aymanz@gmail.com.com]  
 GitHub: [https://github.com/yourusername](https://github.com/yourusername)
 
